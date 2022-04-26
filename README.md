@@ -1,2 +1,2 @@
 # PaintJS
-Painting site using VanillaJS
+Painting site using VanillaJS(Nomad Coder Clone Coding)
